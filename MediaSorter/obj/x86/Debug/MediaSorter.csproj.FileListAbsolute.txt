@@ -1,0 +1,12 @@
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\bin\Debug\MediaSorter.exe
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\bin\Debug\MediaSorter.pdb
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\obj\x86\Debug\MediaSorter.Form1.resources
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\obj\x86\Debug\MediaSorter.Properties.Resources.resources
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\obj\x86\Debug\MediaSorter.exe
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\obj\x86\Debug\MediaSorter.pdb
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\bin\Debug\policy.2.0.taglib-sharp.dll
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\bin\Debug\taglib-sharp.dll
+c:\users\harv\documents\visual studio 2010\Projects\MediaSorter\MediaSorter\bin\Debug\policy.2.0.taglib-sharp.config
